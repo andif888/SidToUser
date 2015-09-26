@@ -1,5 +1,5 @@
 # SidToUser
-A command line tool with translates SIDs to Usernames and vice versa including wellknown SIDs.
+A command line tool which translates SIDs to Usernames and vice versa including wellknown SIDs.
 
 
 ### Download
